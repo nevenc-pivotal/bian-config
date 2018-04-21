@@ -1,0 +1,30 @@
+bianservice:
+  status: online
+  configSource: config server (global)
+agreementservice:
+  status: online
+  configSource: config server (global)
+customerservice:
+  status: online
+  configSource: config server (global)
+eligibilityservice:
+  status: online
+  configSource: config server (global)
+leadservice:
+  status: online
+  configSource: config server (global)
+locationservice:
+  status: online
+  configSource: config server (global)
+offerservice:
+  status: online
+  configSource: config server (global)
+productservice:
+  status: online
+  configSource: config server (global)
+testservice:
+  status: online
+  configSource: config server (global)
+workbenchservice:
+  status: online
+  configSource: config server (global)

@@ -1,0 +1,20 @@
+bianservice:
+  configSource: config server (test)
+agreementservice:
+  configSource: config server (test)
+customerservice:
+  configSource: config server (test)
+eligibilityservice:
+  configSource: config server (test)
+leadservice:
+  configSource: config server (test)
+locationservice:
+  configSource: config server (test)
+offerservice:
+  configSource: config server (test)
+productservice:
+  configSource: config server (test)
+testservice:
+  configSource: config server (test)
+workbenchservice:
+  configSource: config server (test)

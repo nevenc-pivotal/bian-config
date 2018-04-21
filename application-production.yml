@@ -1,0 +1,20 @@
+bianservice:
+  configSource: config server (production)
+agreementservice:
+  configSource: config server (production)
+customerservice:
+  configSource: config server (production)
+eligibilityservice:
+  configSource: config server (production)
+leadservice:
+  configSource: config server (production)
+locationservice:
+  configSource: config server (production)
+offerservice:
+  configSource: config server (production)
+productservice:
+  configSource: config server (production)
+testservice:
+  configSource: config server (production)
+workbenchservice:
+  configSource: config server (production)
